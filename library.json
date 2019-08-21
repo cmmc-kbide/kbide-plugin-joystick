@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-joystick",
+  "title": "joystick",
+  "keywords": "joystick, esp32, esp8266, arduino",
+  "description": "Plugin joystick for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-joystick/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-joystick/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.jpg",
+  "homepage": "http://www.kbide.org"
+}
